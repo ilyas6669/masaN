@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>827879449642-u726noduhdgqmuk4b42mlnucu3kfv6dq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.827879449642-u726noduhdgqmuk4b42mlnucu3kfv6dq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD82e8uXSU8stnZYEDTvIndC_X2Rzb7Kk0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>827879449642</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ilyas666.Nasam</string>
+	<key>PROJECT_ID</key>
+	<string>nasacity-75ad6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nasacity-75ad6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:827879449642:ios:d51c1bec09856d5601cf53</string>
+	<key>DATABASE_URL</key>
+	<string>https://nasacity-75ad6.firebaseio.com</string>
+</dict>
+</plist>

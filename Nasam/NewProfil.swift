@@ -1,20 +1,32 @@
 //
-//  ViewController.swift
+//  NewProfil.swift
 //  Nasam
 //
-//  Created by İlyas Abiyev on 12/10/19.
+//  Created by İlyas Abiyev on 12/14/19.
 //  Copyright © 2019 İlyas Abiyev. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class NewProfil: UIViewController {
 
+    
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    }
 
+        // Do any additional setup after loading the view.
+        
+        
+        
+        
+    }
+    
+
+    
+    
+    
 
 }
-
